@@ -1,4 +1,5 @@
 # TimeChain
+🌍 TimeChain — Launched Publicly on October 7, 2025
 # 🌍 TimeChain
 
 > A decentralized human civilization ledger — preserving truth, time, and collective memory.
