@@ -118,7 +118,7 @@ We believe that **truth itself is the ultimate consensus layer of humanity**.
 
 ## 📜 License & Credits
 
-Created by **Li Lei (李磊)** © 2025  
+Created by **Li Lei (李磊)** © 2025-10-07
 All rights reserved.  
 Built for the preservation of human truth.
 
